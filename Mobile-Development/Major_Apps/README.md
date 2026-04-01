@@ -1,15 +1,21 @@
-# iOS & Swift Development Portfolio
+# Mastermind iOS Game
 
-This section of my repository contains a collection of native iOS applications I developed using Swift, UIKit, and Xcode. 
+## 🎯 Overview
+A digital iOS recreation of the classic code-breaking board game, "Mastermind." The player must crack a secret combination of colored balls within a limited number of attempts, receiving feedback on exact and partial matches after each guess.
 
-## 🌟 Featured Projects
-* **[Ness Garden Visitor App](./Major_Apps/NessGardenVisitorApp):** A comprehensive visitor guide app utilizing **Core Data** for persistent storage and **MapKit** for location tracking/routing.
-* **[Mastermind](./Major_Apps/MastermindGame):** A digital recreation of the classic code-breaking game demonstrating complex state management, custom UI layout, and game loop logic.
-* *
+## 📱 Features
+* **Interactive Gameplay:** Users can select and submit sequences of colored balls (Red, Blue, Green, Yellow, Orange, White).
+* **Guess History:** Implemented a custom `UITableView` (`GuessHistoryTableViewCell`) to keep a visual log of previous guesses and their feedback (Black/White blobs for exact/partial matches).
+* **Game State Management:** Tracks win/loss conditions and logs winners using `WinnersTableViewController`.
 
-## 🧪 Core Concepts & Mini-Labs
-The `Concepts_and_Labs` directory contains smaller projects focused on mastering specific iOS frameworks:
-* `UserDefaults` for lightweight data persistence.
-* `UITableView` delegation and dynamic data passing via Segues.
-* Foundational `Core Data` entity modeling.
-* *[My Favourite Places](./Labs+Concepts/MyFavouritePlaces):** A location-pinning app that saves user-selected geographic coordinates.
+## 🛠️ Tech Stack
+* **Language:** Swift 5
+* **Framework:** UIKit
+* **Architecture:** MVC (Model-View-Controller)
+* **UI:** Storyboards (`Main.storyboard`) and custom `.xcassets` for visual elements.
+
+## 🚀 How to Run
+1. Clone this repository to your local machine.
+2. Open `mastermindGame.xcodeproj` in **Xcode**.
+3. Select an iOS Simulator (e.g., iPhone 14) from the run destination menu.
+4. Press `Cmd + R` to build and run the application.
