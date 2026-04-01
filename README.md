@@ -14,19 +14,19 @@ The primary goal of this repository is to demonstrate my foundational understand
 
 ## 📂 Repository Directory
 
-### 1. [Mobile Development (iOS / Swift)](./Mobile_Development)
+### 1. [Mobile Development (iOS / Swift)](./Mobile-Development)
 A collection of native iOS applications demonstrating proficiency in Swift and Apple's core frameworks.
 * **Ness Garden Visitor App:** A complex, location-aware visitor guide utilizing **Core Data** for persistent local storage and **MapKit** to parse and render `.gpx` walking routes.
 * **Mastermind Game:** A digital recreation of the classic code-breaking game featuring complex game-loop logic, state management, and custom programmatic UI.
 * **My Favourite Places:** A location-pinning application that bridges native mapping capabilities with persistent user data.
 
-### 2. [Object-Oriented Systems (Java)](./Exceptional-Press)
+### 2. [Object-Oriented Systems (Java)](./Object-Oriented-Programming)
 * **Exceptional Press Vending Simulator:** A complete simulation of a boutique book publishing and vending network. This project showcases strict OOP principles (encapsulation, polymorphism), custom exception handling, and automated file I/O parsing using `java.nio`.
 
 ### 3. [Data Structures & Algorithms (Java)](./Cache-and-Paging-Algorithms)
 * **Memory Management Simulators:** Implementations of classic Operating System cache eviction and paging strategies. Includes custom-built Doubly Linked Lists and array manipulation to execute **Least Recently Used (LRU)**, **First-In First-Out (FIFO)**, and **Least Frequently Used (LFU)** algorithms. Includes detailed Time Complexity (Big-O) documentation.
 
-### 4. [Database Systems (SQL)](./Supermarket-Database)
+### 4. [Database Systems (SQL)](./Database_Systems
 * **Supermarket Relational Database:** A fully structured MySQL database featuring multi-table joins, primary/foreign key relationships, and complex query view generation to track employees, stock, and dynamic customer transactions.
 
 ---
