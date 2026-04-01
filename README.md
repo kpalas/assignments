@@ -1,11 +1,11 @@
 # 🎓 Computer Science & Software Engineering Portfolio
 
-Welcome to my academic and personal project repository! This workspace contains a curated collection of applications, algorithms, and database architectures I have developed. 
+Welcome to my academic and personal project repository! This workspace contains a  collection of applications, algorithms, and database architectures I have developed. 
 
 The primary goal of this repository is to demonstrate my foundational understanding of software engineering principles, ranging from low-level algorithmic efficiency to full-stack mobile development and relational database management.
 
 ## 🛠️ Core Technologies & Skills
-* **Languages:** Java, Swift, SQL
+* **Languages:** Java, Swift, SQL, PHP
 * **Mobile Development:** iOS, UIKit, MapKit, Core Data, MVC Architecture
 * **Software Design:** Object-Oriented Programming (OOP), Data Structures, Algorithm Time Complexity (Big-O)
 * **Databases:** Relational Database Design, Complex SQL Queries, View Generation
