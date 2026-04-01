@@ -11,4 +11,4 @@ The `Concepts_and_Labs` directory contains smaller projects focused on mastering
 * `UserDefaults` for lightweight data persistence.
 * `UITableView` delegation and dynamic data passing via Segues.
 * Foundational `Core Data` entity modeling.
-* [My Favourite Places](./Major_Apps/MyFavouritePlaces):A location-pinning app that saves user-selected geographic coordinates.
+* My Favourite Places.A location-pinning app that saves user-selected geographic coordinates.
