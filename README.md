@@ -26,7 +26,7 @@ A collection of native iOS applications demonstrating proficiency in Swift and A
 ### 3. [Data Structures & Algorithms (Java)](./Cache-and-Paging-Algorithms)
 * **Memory Management Simulators:** Implementations of classic Operating System cache eviction and paging strategies. Includes custom-built Doubly Linked Lists and array manipulation to execute **Least Recently Used (LRU)**, **First-In First-Out (FIFO)**, and **Least Frequently Used (LFU)** algorithms. Includes detailed Time Complexity (Big-O) documentation.
 
-### 4. [Database Systems (SQL)](./Database_Systems
+### 4. [Database Systems (SQL)](./Database_Systems)
 * **Supermarket Relational Database:** A fully structured MySQL database featuring multi-table joins, primary/foreign key relationships, and complex query view generation to track employees, stock, and dynamic customer transactions.
 
 ---
